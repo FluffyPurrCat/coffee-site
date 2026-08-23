@@ -2,7 +2,10 @@
 
 カフェサイトの模写コーディング作品です。
 
-[figma](https://www.figma.com/community/file/1521850636801222788/coffea-free-responsive-coffee-shop-website-template)
+## Design
+
+模写元：
+[Figma - Coffea Free Responsive Coffee Shop Website Template](https://www.figma.com/community/file/1521850636801222788/coffea-free-responsive-coffee-shop-website-template)
 
 ## Demo
 
